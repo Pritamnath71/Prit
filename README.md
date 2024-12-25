@@ -1,2 +1,0 @@
-# Prit
-Author is Pritam
